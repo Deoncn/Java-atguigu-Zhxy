@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="zhxy" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="zhxy" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="org.deoncn.zhxy.ZhxyApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
